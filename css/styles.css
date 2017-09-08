@@ -20,10 +20,7 @@
 
 }
 
-.bg-deco {
-  background-image: url('../img/background.png');
-  background-attachment:fixed;
-}
+
 
 #aiport {
   background-color:white;
@@ -43,11 +40,13 @@
 
 .panel-heading {
   border-bottom: 1px solid black;
+  background-color:#f3f3f3;
+  color:#000;
 }
 
 .panel-heading:hover {
-  background-color:#f3f3f3;
-  color:#000;
+  background-image: url('../img/background.png');
+  background-attachment:fixed;
 }
 
 kbd {
