@@ -10,16 +10,19 @@
 
 .page-header {
     background-image: url('../img/background.png');
+    border: 2px solid black;
 }
 
 .page-header img {
   margin-top:10px;
   margin-right:5px;
   float:right;
+
 }
 
-.panel-heading {
-  background-color:#92c2e8;
+.bg-deco {
+  background-image: url('../img/background.png');
+  background-attachment:fixed;
 }
 
 #aiport {
@@ -32,4 +35,12 @@
   display:inline-block;
   text-align:center;
   padding-top:7px;
+}
+
+.panel {
+  border: 1px solid black;
+}
+
+.panel-heading {
+  border-bottom: 1px solid black;
 }
