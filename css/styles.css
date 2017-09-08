@@ -13,13 +13,13 @@
 }
 
 .page-header img {
-  margin-top:3px;
+  margin-top:10px;
   margin-right:5px;
   float:right;
 }
 
 .panel-heading {
-  background-color:#c9d5e8;
+  background-color:#92c2e8;
 }
 
 #aiport {
@@ -30,4 +30,6 @@
   width:200px;
   padding:1px;
   display:inline-block;
+  text-align:center;
+  padding-top:7px;
 }
