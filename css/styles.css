@@ -44,3 +44,10 @@
 .panel-heading {
   border-bottom: 1px solid black;
 }
+
+kbd {
+  font-size: 20px;
+  background-color:#99b1db;
+  border-left:2px solid black;
+  border-bottom:2px solid black;
+}
