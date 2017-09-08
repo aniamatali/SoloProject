@@ -1,11 +1,33 @@
 .panel-body {
   height:auto;
+  background-color:#dee1e5;
 }
 
 .jumbotron {
+  margin-top:10px;
     background-color:#c9d5e8;
 }
 
-.jumbotron  img {
+.page-header {
+    background-image: url('../img/background.png');
+}
+
+.page-header img {
+  margin-top:3px;
+  margin-right:5px;
   float:right;
+}
+
+.panel-heading {
+  background-color:#c9d5e8;
+}
+
+#aiport {
+  background-color:white;
+  margin-top:10px;
+  margin-left:5px;
+  border: 2px solid black;
+  width:200px;
+  padding:1px;
+  display:inline-block;
 }
