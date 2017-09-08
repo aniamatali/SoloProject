@@ -1,6 +1,7 @@
 
 .container-fluid {
-  border:1px solid black;
+  border:5px solid #2e589b;
+  border-radius:33px;
   margin:20px;
 }
 
