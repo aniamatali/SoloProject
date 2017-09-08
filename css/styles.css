@@ -45,9 +45,18 @@
   border-bottom: 1px solid black;
 }
 
+.panel-heading:hover {
+  background-color:#f3f3f3;
+  color:#000;
+}
+
 kbd {
   font-size: 20px;
   background-color:#99b1db;
   border-left:2px solid black;
   border-bottom:2px solid black;
+}
+
+kbd:hover {
+  background-color:#133977;
 }
