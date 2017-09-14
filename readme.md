@@ -1,17 +1,21 @@
-## Isaac's Portfolio
+# Isaacs Portfolio
 
-#### This is the first solo project on my first week at Epicodus.  The objective
-#### is to create a landing/portfolio page.
+#### This is my Portfolio , 9/14/17
 
-##### Languages used are...
+#### By Alvin Isaac Niamatali
 
-1. html
-2. css
+## Description
 
-##### Sections shown are...
+_{This is my first SoloProject at Epicodus}_
 
-* About me
-* Projects
-* Interests
-* Why programming
-* Background
+#### (http://aniamatali.github.io/SoloProject
+
+## Languages Used
+
+_{HTML and CSS}_
+
+### License
+
+*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
+Copyright (c) 2017 **_{Alvin Isaac Niamatali}_**
